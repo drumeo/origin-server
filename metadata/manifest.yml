@@ -25,7 +25,7 @@ Cartridge-Version: 0.0.22
 Compatible-Versions:
 - 0.0.20
 - 0.0.21
-Cartridge-Vendor: redhat
+Cartridge-Vendor: drumeo
 Categories:
 - service
 - php
